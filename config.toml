@@ -71,3 +71,7 @@ weight = 2
 icon = "fa-twitter-square"
 url = "https://twitter.com/planningassist1"
 weight = 3
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
