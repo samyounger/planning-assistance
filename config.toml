@@ -1,6 +1,6 @@
 baseURL = "https://www.samyounger.com/planning-assistance/"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 
 languageCode = "en-GB"
 pagination.pagerSize = 6
