@@ -1,5 +1,5 @@
-baseURL = "https://planning-assistance.co.uk"
-relativeURLs = true
+baseURL = "https://www.samyounger.com/planning-assistance/"
+relativeURLs = false
 canonifyURLs = true
 
 languageCode = "en-GB"
