@@ -3,7 +3,7 @@ relativeURLs = true
 canonifyURLs = true
 
 languageCode = "en-GB"
-paginate = 6
+pagination.pagerSize = 6
 title = "Planning Assistance"
 # Main Menu
 [[menu.main]]
